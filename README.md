@@ -6,6 +6,7 @@ Although mathematics will help you arrive at elegant and efficient methods,
 the use of a computer and programming skills will be required to solve most
 problems."_ in [https://projecteuler.net](https://projecteuler.net/about)
 
-This is my approach on solving those problems using [GO](https://golang.org/)
+This is my approach and my understanding on solving those challenges
+using [GO](https://golang.org/)
 
 Each problem will be separated by folder.
